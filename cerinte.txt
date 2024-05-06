@@ -1,0 +1,3 @@
+finisati metoda slice facuta in clasa in asa fel in cat sa lucreze in toate circumstantile, 
+ganditiva la toate modalitatile care pot fi cand chemam functia si aveti o verificare 
+pentru fiecare din ele.
